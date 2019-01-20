@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me
+permalink: /aboutme/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I fluently speak:
+- Italian (mother tongue)
+- Portoguese (mother tongue)
+- Spanish
+- English
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I obtained both my BSc and Msc in [UPO](https://www.uniupo.it/) in *Lingue and Letterature Straniere*.
+...
 
 
-[jekyll-organization]: https://github.com/jekyll
